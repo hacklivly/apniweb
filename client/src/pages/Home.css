@@ -1,0 +1,17 @@
+.home-container {
+  background-color: #1a2b47; /* Dark blue background */
+  color: #ffffff; /* White text */
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.online-users {
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 400px;
+  text-align: center;
+}
